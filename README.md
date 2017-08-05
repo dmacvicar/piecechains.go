@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.org/dmacvicar/piecechains.go.svg?branch=master)](https://travis-ci.org/dmacvicar/piecechains.go)
+
 # Piece Chains in Go
 
 A piece chain is a data structure which is used to develop editors.
